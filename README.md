@@ -1,2 +1,2 @@
-# patmcfarlane.github.io
+# personal
 Personal website
