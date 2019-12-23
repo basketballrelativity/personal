@@ -1,0 +1,22 @@
+name: "Pat McFarlane"
+output_dir: "."
+navbar:
+  title: "Pat McFarlane"
+  left:
+    - text: "Home"
+      href: home.html
+    - text: "Projects"
+      href: projects.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:patmcfarla@gmail.com
+    - icon: fa-github fa-lg
+      href: http://github.com/basketballrelativity
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/py_ball_
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/patrickmcfarlane1/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
