@@ -7,6 +7,8 @@ navbar:
       href: home.html
     - text: "Projects"
       href: projects.html
+    - text: "Analysis"
+      href: analysis.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:patmcfarla@gmail.com
@@ -19,4 +21,3 @@ navbar:
 output:
   html_document:
     theme: paper
-    css: 'styles.css'
