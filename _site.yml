@@ -9,6 +9,8 @@ navbar:
       href: projects.html
     - text: "Analysis"
       href: analysis.html
+    - text: "News"
+      href: news.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:patmcfarla@gmail.com
