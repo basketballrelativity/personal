@@ -1,0 +1,15 @@
+---
+title: "Projects"
+output: html_document
+---
+
+## Packages
+
+- `py_ball`: Python API wrapper for stats.nba.com with a focus on NBA and WNBA applications. Learn more [here](https://github.com/basketballrelativity/py_ball) and find some tutorials leveraging the package on my [GitHub profile](https://github.com/basketballrelativity).
+
+## Papers
+
+- P. McFarlane. "Evaluating NBA end-of-game decision-making," _Journal of Sports Analytics_, Vol. 5, No. 1, pp. 17-22, 2019 ([read](https://content.iospress.com/articles/journal-of-sports-analytics/jsa231))
+- P. McFarlane and H. Balakrishnan. "Optimal Control of Airport Pushbacks in the Presence of Uncertainties," _Proceedings of the American Control Conference_, July 2016 ([read](http://web.mit.edu/hamsa/www/pubs/McFarlaneBalakrishnanACC2016.pdf))
+- P. McFarlane, J. Suire, M. Sen, and F. Semperlotti. "Experiments with a pressure-driven Stirling refrigerator with flexible chambers," _Journal of Applied Physics_, 115 (24), 244510, 2014 ([read](https://aip.scitation.org/doi/full/10.1063/1.4885456))
+- P.McFarlane, F.Semperlotti, and M. Sen. "Mathematical model of an air-filled alpha Stirling refrigerator," _Journal of Applied Physics_, 114 (14), 144508, 2013
